@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a pyton programmer, also can other lang but I,m not interested.
+I am a pyton programmer, also can other lang but I'm not interested.
 
 Могу писать код, могу не писать.
 
